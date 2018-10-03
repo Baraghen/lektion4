@@ -1,0 +1,10 @@
+﻿body{
+   background: url("https://i.imgur.com/74HtSJK.jpg");
+   background-size: cover;
+   color:aqua;
+   text-align:center;
+}
+
+h1{
+   font-size: 56px;
+}
